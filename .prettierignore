@@ -1,0 +1,9 @@
+/node_modules/**
+/.next/**
+package.json
+package-lock.json
+/dist/**
+/public/**
+/.plasmo/**
+/build/**
+
